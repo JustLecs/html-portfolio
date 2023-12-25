@@ -1,6 +1,4 @@
-*{
-    font-family: sans-serif;
-}
+
 html {background-color: #C0C0C0;
 }
 h1 {color:yellow;
@@ -13,7 +11,6 @@ h1 {color:yellow;
     margin-right:auto; 
     border: 5px solid black;
 }
-div1 {
-    background-color: darkblue;
-    
+* {
+    font-family: sans-serif;
 }
