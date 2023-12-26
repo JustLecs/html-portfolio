@@ -1,22 +1,23 @@
 html {
     text-align: center;
-    background-color: #C21292;
+    background-color: #EF4040;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 hr {
     border-radius: 5px;
-    background-color: #EF4040;   
-    border-color: #EF4040;
+    background-color: #FFA732;   
+    border-color: #FFA732;
 }
 ul {
     text-align: center;
     list-style-position: inside;
+    color: #711DB0;
 }
 h1 {
-    color : #FFA732;
+    color : #711DB0;
 }
 h2 {
-    color: #711DB0;
+    color: #C21292;
 }
 .center {display: block; 
     margin-left: auto; 
