@@ -1,0 +1,26 @@
+html {
+    text-align: center;
+    background-color: #C21292;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr {
+    border-radius: 5px;
+    background-color: #EF4040;   
+    border-color: #EF4040;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+h1 {
+    color : #FFA732;
+}
+h2 {
+    color: #711DB0;
+}
+.center {display: block; 
+    margin-left: auto; 
+    margin-right:auto; 
+    border: 6px solid #FFA732;
+    border-radius: 3px;
+}
