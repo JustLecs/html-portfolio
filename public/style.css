@@ -1,9 +1,7 @@
 html {
     background-color:#FAEBD7
 }
-h1 {
-    color:darkgreen
-}
+
 * {
     text-align: center;
     font-family: sans-serif;
@@ -29,3 +27,4 @@ li {padding-top: 30px ;
 #home {
     color: blue;
 }
+
