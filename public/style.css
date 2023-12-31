@@ -1,10 +1,14 @@
 html {
-    background-color:#FAEBD7
-}
-
-* {
-    text-align: center;
+    background-color:#FAEBD7;
     font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #faebd7;
+    background-color: darkgreen;
+    border: 25px;
+    border-radius: 7px;
+    padding: 20px;
 }
 ul {
     text-align: center;
@@ -26,5 +30,5 @@ li {padding-top: 30px ;
 }
 #home {
     color: blue;
+    text-align: left;
 }
-
