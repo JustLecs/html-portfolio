@@ -10,10 +10,22 @@ h1 {
 }
 ul {
     text-align: center;
-    list-style-position: inside;
+    list-style: none;
 }
 p {
     color:red;  
 }
 hr {border-radius: 5px;
+}
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
+img {
+width: 200px;    
+}
+li {padding-top: 30px ;
+}
+#home {
+    color: blue;
 }

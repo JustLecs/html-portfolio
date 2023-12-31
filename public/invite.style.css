@@ -25,3 +25,9 @@ h2 {
     border: 6px solid #FFA732;
     border-radius: 3px;
 }
+ul {
+    list-style: none;
+}
+a {text-decoration: none;
+    color: black;
+}
