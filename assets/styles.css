@@ -2,15 +2,15 @@
 html {background-color: #C0C0C0;
 }
 h1 {color:yellow;
-    background-color: darkblue;
-    border: 50px solid darkblue;
+    background-color: #0f1035;
+    border: 50px solid #0f1035;
     border-radius: 7px;
     text-align: center;
 }
 .center {display: block; 
     margin-left: auto;
     margin-right: auto;
-    border: 6px solid black;
+    border: 6px solid #0f1035;
     border-radius: 3px;
 }
 hr {
@@ -45,3 +45,15 @@ p {
 #email {
     margin-left: 15%;
 }
+.button {
+    background-color: white;
+    color: #365486;
+    border: 2px solid #365486;
+    border-radius: 3px
+}
+  
+.button:hover {
+    background-color: #dcf2f1;
+    color: #365486;
+}
+  
