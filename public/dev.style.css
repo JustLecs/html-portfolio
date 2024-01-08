@@ -48,6 +48,11 @@ footer {
   text-align: right;
   color: midnightblue;
 }
+a {
+  text-decoration: none;
+  text-align: left;
+  color: darkblue;
+}
 @media (max-width: 480px) {
   body {
     text-align: center;
