@@ -1,0 +1,155 @@
+html {background-color: #dcf2f1;
+}
+h1 {color:#f6b17a;
+    background-color: #0f1035;
+    border: 50px solid #0f1035;
+    border-radius: 7px;
+    text-align: center;
+}
+.center {display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid #0f1035;
+    border-radius: 3px;
+}
+hr {
+    border-radius: 5px;
+}
+* {
+    font-family: sans-serif;
+}
+#link {
+    margin-left: 15%;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+p {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#summary {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#education {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#intro {
+    margin-left: 15%;
+}
+#email {
+    margin-left: 15%;
+}
+.button {
+    background-color: white;
+    color: #365486;
+    border: 2px solid #365486;
+    border-radius: 3px
+}
+  
+.button:hover {
+    background-color: #dcf2f1;
+    color: #365486;
+}
+  
+
+#menu {
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    background-color: #dcf2f1;
+    position: relative;
+    top: 75px
+}
+div {
+    display: inline-block;
+}
+#cards {
+    width: 60%;
+    height: 400px;
+    background-color: #dcf2f1;
+}
+img {
+    width: 40%;
+    height: auto;
+    margin: 10px 10px;
+}
+.right {
+    float: right;
+    position: relative;
+    top: 75px;
+    margin-right: 10px;
+    border: 6px solid #0f1035;
+    border-radius: 3px;
+}.left {
+    float: left;
+    margin-left: 10px;
+    position: relative;
+    top: 25px;
+    border: 6px solid #0f1035;
+    border-radius: 3px;
+}
+footer {
+    background-color:  #dcf2f1;
+    width: 100%;
+    clear: both;
+    text-align: center;
+    padding-bottom: 20px;
+}
+header {
+    text-align: center;
+    width: 100%;
+    background-color: gray;
+}
+@media (max-width: 600px) {
+    div {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    img {
+        display: block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        position: static
+    }
+    #menu {
+        width: 90%;
+        text-align: center;
+        position: static;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 12px;
+    }
+    .right {
+        float: left;
+        position: relative; 
+        top: 25px;
+        margin-left: 10px;
+        margin-top: 10px;
+        border: 6px solid #0f1035;
+        border-radius: 3px;
+    }
+    .left {
+        margin-bottom: 10px;
+        border: 6px solid #0f1035;
+        border-radius: 3px;
+    }
+    footer {
+        clear: both;
+        position: relative;
+        top: 35px;
+    }
+  }
+  @media (min-width: 850px) {
+    footer {
+        position: relative;
+        top: 130px;
+        padding-bottom: 10px;
+    }
+  }
